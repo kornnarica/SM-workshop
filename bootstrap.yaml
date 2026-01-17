@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/kornnarica/SM-workshop
     path: apps
     targetRevision: main
   destination:
